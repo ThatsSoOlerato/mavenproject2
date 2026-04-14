@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class QuickChat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+//fancy formatting for appeal
         System.out.println("==============================");
         System.out.println("   Welcome to QuickChat!      ");
         System.out.println("==============================");
@@ -48,4 +48,5 @@ public class QuickChat {
 
         scanner.close();
     }
+    //quickchat complete
 }
